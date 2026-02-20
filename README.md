@@ -5,10 +5,9 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/isaac-bezerra-1528233ab" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-
+  <a href="https://www.linkedin.com/in/isaac-bezerra-1528233ab/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" />
+</a>
   <a href="https://www.instagram.com/isaac._bzs" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="25" />
   </a>
